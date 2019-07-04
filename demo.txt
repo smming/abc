@@ -1,0 +1,2 @@
+在本地仓库中修改完之后，先执行git add 将修改文件添加到暂存区，再
+执行git commit 提交到分支 git push -u origin master
